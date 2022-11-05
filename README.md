@@ -1,6 +1,6 @@
-- 👋 Hi, I’m pKunnn, or pK, trying to create some fnf crap
+- 👋 Hi, I’m pKunnn, or pK, trying to create some code crap
 - 👀 I’m interested in doing mods lmao
-- 🌱 I’m currently learning haxeflixel don't hate me k
-- 📫 You can reach me on Discord: pKun#1251
+- 🌱 I’m currently learning haxeflixel, javascript, lua and html don't hate on me k
+- 📫 You can reach me on Discord: High#0571
 --------------------------------------------------------------------------------------
 From Brazil :))

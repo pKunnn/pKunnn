@@ -1,6 +1,5 @@
-- 👋 Hi, I’m pKunnn, or pK, trying to create some code crap
-- 👀 I’m interested in doing mods lmao
-- 🌱 I’m currently learning haxeflixel, javascript, lua and html don't hate on me k
-- 📫 You can reach me on Discord: High#0571
-- 🐱‍👤 I'm such a newbie in codes
---------------------------------------------------------------------------------------
+### Creator of Celestial, a Discord Bot.
+
+Celestial was made on the `14th of december 2022`
+
+###### I don't know how my codes works... don't ask i cant explain them
